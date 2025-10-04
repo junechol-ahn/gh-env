@@ -20,7 +20,6 @@ try {
   console.log('Connection closed.');
 }
 
-
 const database = client.db(dbName);
 
 export default database;
